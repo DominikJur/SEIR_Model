@@ -10,6 +10,7 @@ $$
 \frac{dR}{dt}  = \gamma I
 \end{cases}
 $$
+
 where $N = S + E + I + R $ is the total population, and $\beta$ is the infection parameter, $\sigma$ is the incubation parmeter and $\gamma$ is the recovery parameter.
  
  
