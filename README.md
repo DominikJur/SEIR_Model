@@ -36,5 +36,9 @@ pip install -r requriements.txt
 ## Project state
 This project is finished.
 
-## Preview
+## Prev
+
+https://github.com/DominikJur1/SEIR_Model/assets/162451655/f1715d82-df81-4b4d-bda7-b030c5cfbb8f
+
+iew
 
