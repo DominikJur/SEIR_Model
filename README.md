@@ -7,7 +7,7 @@ $$
 \frac{dS}{dt}  = -\frac{\beta SI}{N}\\
 \frac{dE}{dt}  = \frac{\beta SI}{N} - \sigma E\\
 \frac{dI}{dt}  = \sigma E - \gamma I\\
-\frac{dR}{dt}  = \gamma I
+\frac{dR}{dt}  = \gamma I\\
  N = S + E + I + R
 \end{cases}
 $$
