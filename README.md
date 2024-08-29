@@ -8,10 +8,11 @@ $$
 \frac{dE}{dt}  = \frac{\beta SI}{N} - \sigma E\\
 \frac{dI}{dt}  = \sigma E - \gamma I\\
 \frac{dR}{dt}  = \gamma I
+ N = S + E + I + R
 \end{cases}
 $$
 
-where N = S + E + I + R is the total population, and $\beta$ is the infection parameter, $\sigma$ is the incubation parmeter and $\gamma$ is the recovery parameter.
+where N is the total population, and $\beta$ is the infection parameter, $\sigma$ is the incubation parmeter and $\gamma$ is the recovery parameter.
  
  
  
